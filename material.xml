@@ -20,9 +20,21 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<helpsystem name="help">
+			<pos>0.003 0.930</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
+			<fontSize>0.055</fontSize>
 		</helpsystem>
+
+        <carousel name="systemcarousel">
+         <type>horizontal</type>
+         <pos>0 0.388</pos>
+         <size>1 0.23</size>
+         <!--<color>00000000</color>-->
+         <logoSize>0.5625 0.075</logoSize>
+         <logoScale>2</logoScale>
+         <maxLogoCount>1</maxLogoCount>
+        </carousel>
 
 	</view>
 
@@ -32,7 +44,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0.12 0.04</size>
 			<pos>1 1</pos>
 		</text>
@@ -41,21 +53,23 @@ license:		creative commons CC-BY-NC-SA
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0.14 0.04</size>
 			<pos>1 1</pos>
 		</text>
 
 		<helpsystem name="help">
+			<pos>0.003 0.930</pos>
 			<textColor>ffffffff</textColor>
 			<iconColor>ffffffff</iconColor>
+			<fontSize>0.055</fontSize>
 		</helpsystem>
 
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0 0.04</size>
 			<pos>1 1</pos>
 		</datetime>
@@ -97,7 +111,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<forceUppercase>0</forceUppercase>
 			<pos>0.025 0.18</pos>
 			<size>0.950 0.73</size>
@@ -115,7 +129,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<forceUppercase>0</forceUppercase>
 			<pos>0.550 0.28</pos>
 			<size>0.360 0.50</size>
@@ -168,7 +182,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0.262 0.323</size>
 			<pos>0.721 0.343</pos>
 		</text>
@@ -177,7 +191,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0.12 0.04</size>
 			<pos>0.721 0.17</pos>
 		</text>
@@ -186,7 +200,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0.12 0.04</size>
 		</text>
 		
@@ -194,7 +208,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.06</fontSize>
 			<size>0.14 0.04</size>
 		</text>
 
