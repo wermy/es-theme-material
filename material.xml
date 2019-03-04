@@ -44,7 +44,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.12 0.04</size>
 			<pos>1 1</pos>
 		</text>
@@ -53,7 +53,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.14 0.04</size>
 			<pos>1 1</pos>
 		</text>
@@ -69,7 +69,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0 0.04</size>
 			<pos>1 1</pos>
 		</datetime>
@@ -111,7 +111,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<forceUppercase>0</forceUppercase>
 			<pos>0.025 0.18</pos>
 			<size>0.950 0.73</size>
@@ -129,7 +129,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<forceUppercase>0</forceUppercase>
 			<pos>0.550 0.28</pos>
 			<size>0.360 0.50</size>
@@ -182,7 +182,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.262 0.323</size>
 			<pos>0.721 0.343</pos>
 		</text>
@@ -191,7 +191,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.12 0.04</size>
 			<pos>0.721 0.17</pos>
 		</text>
@@ -200,7 +200,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.12 0.04</size>
 		</text>
 		
@@ -208,7 +208,7 @@ license:		creative commons CC-BY-NC-SA
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Roboto-Regular.ttf</fontPath>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.14 0.04</size>
 		</text>
 
